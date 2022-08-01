@@ -1,0 +1,8 @@
+ul {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
